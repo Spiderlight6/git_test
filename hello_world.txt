@@ -1,0 +1,1 @@
+This is a test on adding files to the staging area
